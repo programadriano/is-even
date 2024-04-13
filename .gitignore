@@ -1,0 +1,8 @@
+dist/
+build/
+.pytest_cache
+validateIfIsEven.egg-info/*
+is_even.egg-info/* 
+isEven.egg-info/*
+IsNumberEven.egg-info/*
+envs/*
